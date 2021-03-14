@@ -1,0 +1,6 @@
+This directory holds all the work done by students that need to be
+reviewed and graded.
+
+Each student's work should be contained within a single directory
+created under this directory. The name of the directory will initially
+served as an identifier for the student.
